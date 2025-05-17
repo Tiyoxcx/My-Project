@@ -9,4 +9,4 @@ Sistem backend sederhana untuk mengelola inventory barang.
 
 ## Instalasi
 
-1. Clone repository:https://github.com/username/inventory-control-backend.git
+1. Clone repository : https://github.com/Tiyoxcx/My-Project/tree/main
